@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there 👋, I'm gnaboo
 
-<!--
-**gnaboo/gnaboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## French Python Developer
 
-Here are some ideas to get you started:
+He / Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a French Python Developer. I've worked on several different projects, acquiring some knowledge over the way a computer works.
+
+# Skills: 
+
+- Python
+- Assembly Comprehension
+- Markdown
+
+
+# Projects:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gnaboo&repo=RSA&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gnaboo&repo=gnaboo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+# Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnaboo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gnaboo&show_icons=true&theme=dark)
+
+
+![Profile views](https://gpvc.arturio.dev/gnaboo)
