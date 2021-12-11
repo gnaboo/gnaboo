@@ -15,13 +15,13 @@ I am a French Python Developer. I've worked on several different projects, acqui
 
 # Projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gnaboo&repo=RSA&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gnaboo&repo=RSA&theme=dark)](https://github.com/gnaboo/RSA)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gnaboo&repo=gnaboo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gnaboo&repo=gnaboo&theme=dark)](https://github.com/gnaboo/gnaboo)
 
 # Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnaboo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnaboo&layout=compact&theme=dark)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gnaboo&show_icons=true&theme=dark)
