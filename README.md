@@ -19,6 +19,8 @@ I am a French Python Developer. I've worked on several different projects, acqui
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gnaboo&repo=gnaboo&theme=dark)](https://github.com/gnaboo/gnaboo)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gnaboo&repo=DiscordRansom&theme=dark)](https://github.com/gnaboo/RSA)
+
 # Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnaboo&layout=compact&theme=dark)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
