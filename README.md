@@ -9,7 +9,7 @@ I am a French Python Developer. I've worked on several different projects, acqui
 # Skills: 
 
 - Python
-- Assembly Comprehension
+- Assembly Comprehension [microcorruption](https://microcorruption.com/profile/79929)
 - Markdown
 
 
