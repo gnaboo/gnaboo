@@ -66,19 +66,15 @@
 
 <br>
 
-<code>
 <strong>
 So before anyone asks, Assembly is not my "general purpose language", since it is not adapted. I mostly use it to analyse suspicious executables, and to better understand how a computer works.
 </strong>
-</code>
 
 <br>
 
-<code>
 <strong>
 I know how to use HTML and CSS for a webpage, but I'm no expert. I prefer low level languages to web development.
 </strong>
-</code>
 
 <br>
 
@@ -124,15 +120,12 @@ I know how to use HTML and CSS for a webpage, but I'm no expert. I prefer low le
 
 <br>
 
-<code>
 <strong>
   More about myself:
 
   I speak French and English. I enjoy maths, physics and chemistry.
-  I also am a musician, as I play the piano and euphonium (smaller tuba)
-  I mainly use Discord and Youtube, but I'm also pretty active on Twitter (mostly to post my political point of view 🙃)
-  My pronouns are He / Him
+  I'm a musician (piano and euphonium)
+  I use Discord and Twitter
 </strong>
-</code>
 
 
