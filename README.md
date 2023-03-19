@@ -23,10 +23,8 @@
 <br>
 
 <p align="center;">
-  <code>
   <strong>
-  I'm gnaboo, a French Developer. I work using python, rust and low level languages such as assembly. I enjoy controlling the cpu and memory
-  </code>
+  I'm gnaboo, a French Developer. I work using python, rust and low level languages such as c++. I enjoy the control these languages provide over the cpu and memory
   </strong>
 </p>
 
