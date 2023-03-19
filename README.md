@@ -123,9 +123,9 @@ I know how to use HTML and CSS for a webpage, but I'm no expert. I prefer low le
 <strong>
   More about myself:
 
-  I speak French and English. I enjoy maths, physics and chemistry.
-  I'm a musician (piano and euphonium)
-  I use Discord and Twitter
+  I speak French and English. I enjoy maths, physics and chemistry. <br>
+  I'm a musician (piano and euphonium) <br>
+  I use Discord and Twitter <br>
 </strong>
 
 
