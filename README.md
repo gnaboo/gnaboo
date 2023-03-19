@@ -112,7 +112,7 @@ I know how to use HTML and CSS for a webpage, but I'm no expert. I prefer low le
     <img src="https://github-readme-stats.vercel.app/api?username=gnaboo&show_icons=true&theme=onedark"
       alt="javascript"/> 
   </a>
-  <a href="https://github.com/gnaboo/RSA" target="_blank"> 
+  <a href="https://github.com/gnaboo" target="_blank"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnaboo&layout=compact&theme=onedark"
       alt="javascript"/> 
   </a>
