@@ -1,6 +1,6 @@
 <h1 align="center"><code>Hi there 👋, I'm gnaboo </h1></code>
 
-<h2 align="center"><strong>French Student - Developer✨</strong></h2>
+<h2 align="center"><strong>French Student</strong></h2>
 
 <br>
 
@@ -65,16 +65,6 @@
 </p>
 
 <br>
-
-<strong>
-So before anyone asks, Assembly is not my "general purpose language", since it is not adapted. I mostly use it to analyse suspicious executables, and to better understand how a computer works.
-</strong>
-
-<br>
-
-<strong>
-I know how to use HTML and CSS for a webpage, but I'm no expert. I prefer low level languages to web development.
-</strong>
 
 <br>
 
